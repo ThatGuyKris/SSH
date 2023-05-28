@@ -50,6 +50,5 @@ Some things to note:
 # Creating a pair of keys on Linux
 
 
-
 Comment
 
